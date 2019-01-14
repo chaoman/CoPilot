@@ -39,6 +39,7 @@ For mapview to work, one program of kivy must be changed to handle an error.
 - LEDs (Look in code for which GPIO is used)
 - If you want to interface with an old radio, hook up relays to the old buttons and connect to the appropriate GPIO pins
 - Two push buttons for Hotkeys (Look in code for which GPIO is used)
+- GPU memory splits needs to be set to 256 MB 
 
 
 **How to use:**
